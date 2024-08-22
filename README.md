@@ -12,7 +12,7 @@ The objective of this project is to explore and visualize terrorism incident dat
 
 ### Dataset Description
 
-The [dataset](globalterrorismdb_2021Jan-June_1222dist.xlsx) covering incidents from January to June 2021. It contains detailed information on each terrorist incident that occurred during this period. 
+The [dataset](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/globalterrorismdb_2021Jan-June_1222dist.xlsx) covering incidents from January to June 2021. It contains detailed information on each terrorist incident that occurred during this period. 
 The dataset is quite extensive, containing 135 columns related to various aspects of terrorist incidents (see data set [info](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/globalterrorismdb_2021Jan-June_1222dist.ipynb))
 
 Key columns include:
@@ -29,8 +29,8 @@ Key columns include:
 ### Dashboard
 
 - Link: [Analyzing Terrorism incidents](https://public.tableau.com/views/Global_Terrorism_Jan_Jun_2021/AnalyzingTerrorismIncidentsJan-Jun20210?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- Workbook: [Global_Terrorism_Jan_Jun_2021.twb]
-- Packaged Workbook: [Global_Terrorism_Jan_Jun_2021.twbx]
+- Workbook: [Global_Terrorism_Jan_Jun_2021.twb](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/Global_Terrorism_Jan_Jun_2021.twb)
+- Packaged Workbook: [Global_Terrorism_Jan_Jun_2021.twbx](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/Global_Terrorism_Jan_Jun_2021.twbx)
 
-### [Analysis and Insights](Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf) 
+### [Analysis and Insights]([Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf)) 
 
