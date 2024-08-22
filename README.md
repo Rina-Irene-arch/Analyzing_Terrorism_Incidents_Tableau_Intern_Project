@@ -32,5 +32,6 @@ Key columns include:
 - Workbook: [Global_Terrorism_Jan_Jun_2021.twb](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/Global_Terrorism_Jan_Jun_2021.twb)
 - Packaged Workbook: [Global_Terrorism_Jan_Jun_2021.twbx](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/Global_Terrorism_Jan_Jun_2021.twbx)
 
-### [Analysis and Insights]([Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf)) 
+### Analysis and Insights
+- [Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf) 
 
