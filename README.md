@@ -13,7 +13,7 @@ The objective of this project is to explore and visualize terrorism incident dat
 ### Dataset Description
 
 The [dataset](globalterrorismdb_2021Jan-June_1222dist.xlsx) covering incidents from January to June 2021. It contains detailed information on each terrorist incident that occurred during this period. 
-The dataset is quite extensive, containing 135 columns related to various aspects of terrorist incidents (see data set [info](globalterrorismdb_2021Jan-June_1222dist.ipynb))
+The dataset is quite extensive, containing 135 columns related to various aspects of terrorist incidents (see data set [info](https://github.com/Rina-Irene-arch/Analyzing_Terrorism_Incidents_Tableau_Intern_Project/blob/main/globalterrorismdb_2021Jan-June_1222dist.ipynb))
 
 Key columns include:
 - **eventid**: Unique identifier for each incident.
@@ -32,5 +32,5 @@ Key columns include:
 - Workbook: [Global_Terrorism_Jan_Jun_2021.twb]
 - Packaged Workbook: [Global_Terrorism_Jan_Jun_2021.twbx]
 
-### [Analisis and Insights](Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf) 
+### [Analysis and Insights](Global_Terrorism_Jan_Jun_2021_Rina_Rafalski.pdf) 
 
